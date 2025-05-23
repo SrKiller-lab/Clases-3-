@@ -1,3 +1,4 @@
+#Sergio Gomez lopez
 class Coche:
     def __init__ (self, gasolina):
         self.gasolina = gasolina
